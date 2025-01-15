@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ejemplo con fondo rosa</title>
+    <title>Ejemplo con fondo rosa desde el visual estudio </title>
     <style>
         body {
             background-color: #FFC0CB; /* Color rosa claro */
